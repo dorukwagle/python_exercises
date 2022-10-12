@@ -10,4 +10,4 @@ elif( (b > a and a > c) or (c > a and a > b)):
     print(f"{a} is second largest")
 else:
     print(f"{c} is second largest")
-    
+
