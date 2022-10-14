@@ -1,4 +1,4 @@
-from re import T
+
 
 
 def is_prime(number):
